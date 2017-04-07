@@ -15,3 +15,7 @@
       display: inline-block;
       font-size: 16px;
   }
+  .centerPicture {
+    margin: 0 auto;
+    display: block;
+  }
